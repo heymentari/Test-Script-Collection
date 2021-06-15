@@ -1,6 +1,5 @@
 // The opts for the server, also includes the data to be written to file
 
-//test
 let opts = {
     requestName: request.name || request.url,
     fileExtension: 'json',

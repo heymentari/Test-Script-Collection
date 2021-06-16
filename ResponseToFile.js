@@ -1,4 +1,7 @@
+//add this script at postmant sandbox section
+
 // The opts for the server, also includes the data to be written to file
+
 
 let opts = {
     requestName: request.name || request.url,
